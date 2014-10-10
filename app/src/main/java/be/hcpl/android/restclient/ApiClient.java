@@ -14,7 +14,7 @@ import retrofit.http.POST;
  */
 public class ApiClient {
 
-    private static final String SERVER_PATH = "http://protected-citadel-1353.herokuapp.com";
+    private static final String SERVER_PATH = "http://still-peak-5323.herokuapp.com/";
 
     private static ItemApiInterface itemService;
 
